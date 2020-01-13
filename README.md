@@ -1,4 +1,4 @@
-# acm-grand-challenge-2020
+# Assets for Twitch's 2020 ACM MMSys 2020 Grand Challenge
 
 This repo contains assets for Twitch's 2020 ACM Grand Challenge, [Adaptation Algorithm for Near-Second Latency](https://2020.acmmmsys.org/lll_challenge.php). It contains everything you need to build and test low-latency ABR algorithms locally.
 
