@@ -7,6 +7,11 @@ This repo contains assets for Twitch's ACM MMSys 2020 Grand Challenge, [Adaptati
 - A fork of [Dash.js v3.0.1](https://github.com/Dash-Industry-Forum/dash.js), modified to pre-request low-latency segments
 - A low-latency [DASH server](https://gitlab.com/fflabs/dash_server), setup and configured for ease of use
 
+
+#### Network Profiles
+
+We're still working on network profiles to reproduce conditions, but the above assets will get you started until then.
+
 ## Requirements
 - MacOS
     - If you're using another operating system, don't worry. All you need to change is the input source for the local dash server. See that README on what to change.
