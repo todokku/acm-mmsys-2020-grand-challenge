@@ -10,7 +10,7 @@ This repo contains assets for Twitch's ACM MMSys 2020 Grand Challenge, [Adaptati
 
 #### Network Profiles
 
-We're still working on network profiles to reproduce conditions, but the above assets will get you started until then.
+We're still working on network profiles to exercise our representative conditions, but the above assets will get you started until then.
 
 ## Requirements
 - MacOS
