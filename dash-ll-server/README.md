@@ -5,7 +5,7 @@ A local server to generate and serve a low-latency DASH stream
 2. In a separate terminal, start ffmpeg with `bash run_gen.sh`
 3. The DASH manifest will be located at http://localhost:9001/live/live.mpd
 
-- Run `bash clean.sh` to wipe out the media directory
+- Run `bash clean.sh` to wipe out the media directory. You should probably do this each time before running `run_server.sh`
 
 ### Requirements
 - python3
